@@ -1351,7 +1351,7 @@ section,
   box-shadow: none;
   border-radius: 0;
   color: var(--default-color);
-  background-color: var(--surface-color);
+  background-color: #E97451;
   border-color: color-mix(in srgb, var(--default-color), transparent 80%);
 }
 
